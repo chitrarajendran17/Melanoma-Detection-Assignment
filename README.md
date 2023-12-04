@@ -6,9 +6,8 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
 
 
-# Project Name
-> Outline a brief description of your project.
-
+## Project Name
+> Melanoma-Detection using multiclass classification model using a custom convolutional neural network in TensorFlow. 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -45,10 +44,10 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
 - tensorFlow v2.11.0
   
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Seborrheic keratosis (77) has lowest numbers of data
+- Pigmented benign keratosis(462) has highest number of data
+- Class rebalance helps in augmentation and achieving the best Training and validation accuracy
+- Training and Validation loss has reduced
 
 ## Acknowledgements
 Give credit here.

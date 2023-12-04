@@ -58,9 +58,9 @@ Give credit here.
 
 ## Contact
 Created by @chitrarajendran17 - 
-chitrarajendran1710@gmail.com
-akyadav0416@gmail.com
-jayeetabose698@gmail.com
+- chitrarajendran1710@gmail.com
+- akyadav0416@gmail.com
+- jayeetabose698@gmail.com
 feel free to contact us
 
 
